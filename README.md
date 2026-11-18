@@ -5,7 +5,9 @@
 Tokenizer is a free, open-source playground for how language models understand text. Cut a sentence into tokens, fly through thousands of words in 3D, do arithmetic with meaning, and learn how it all fits together, right in your browser. No sign-up, no ads.
 
 ➡️ **Repository:** [github.com/orewachetas/Tokenizer](https://github.com/orewachetas/Tokenizer)
-➡️ **Live link:** [https://tokenizer-eosin-eight.vercel.app/](link;https://tokenizer-eosin-eight.vercel.app/)
+
+➡️ **Live link:** [https://tokenizer-eosin-eight.vercel.app/](link;https://tokenizer-eosin-eight.vercel.app/) 
+
 ---
 
 ## 🧭 Features
