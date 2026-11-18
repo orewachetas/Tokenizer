@@ -6,7 +6,7 @@ Tokenizer is a free, open-source playground for how language models understand t
 
 ➡️ **Repository:** [github.com/orewachetas/Tokenizer](https://github.com/orewachetas/Tokenizer)
 
-➡️ **Live link:** [https://tokenizer-eosin-eight.vercel.app/](link;https://tokenizer-eosin-eight.vercel.app/) 
+➡️ **Live link:** [https://tokenizer-eosin-eight.vercel.app/](https://tokenizer-eosin-eight.vercel.app/) 
 
 ---
 
